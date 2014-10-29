@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-0550a8effc824aa58f22f8c9a6997b0565755260.jar"
+        jar="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62"/>
+    <item
+        dex="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-621f24351d536575c6bbf97f31ecc856feff60b2.jar"
+        jar="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-6aaa23356c479ae80f4e8b3cd035a5e0ced3b04a.jar"
+        jar="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76"/>
+    <item
+        dex="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-f933b524a5a63fa3672dc1c4dc450dec71a0929a.jar"
+        jar="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34"/>
+    <item
+        dex="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-22cc4017a5942c14b805c5717b4976d31736ad5b.jar"
+        jar="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/krutikakamilla/Downloads/CardEmulation/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+
+</pre-dex-items>
